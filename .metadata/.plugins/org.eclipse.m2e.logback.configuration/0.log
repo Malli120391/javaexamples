@@ -1,0 +1,5 @@
+2020-08-22 17:47:47,492 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-08-22 18:01:09,533 [Worker-20: Downloading sources for servlet-api.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/8.5.54/tomcat-servlet-api-8.5.54-sources.jar
+2020-08-22 18:01:10,366 [Worker-20: Downloading sources for servlet-api.jar] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-servlet-api/8.5.54/tomcat-servlet-api-8.5.54-sources.jar
+2020-08-23 09:34:16,963 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-25 13:14:47,285 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

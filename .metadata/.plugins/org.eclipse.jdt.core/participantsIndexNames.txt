@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+E:\servlet-tutorial-master\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2220618086.index
+\jsp-servlet-jdbc-mysql-crud-example\src
+E:\servlet-tutorial-master\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2896639201.index
+\user-registration-example\src
